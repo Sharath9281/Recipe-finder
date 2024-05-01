@@ -9,9 +9,3 @@ Using our Python code is straightforward. Simply download the code from our GitH
 Connecting the Code and Dataset History:
 
 The history of the dataset we utilize in our project is rich and diverse. Originally sourced from Kaggle, the dataset comprises contributions from culinary enthusiasts, professional chefs, and home cooks alike. Over time, it has grown into a comprehensive repository of recipes from around the world, reflecting the diversity of global cuisine and culinary traditions. By incorporating this dataset into our Recipe Finder project, we aim to honor the contributions of the individuals who have shared their recipes and culinary expertise. Additionally, we strive to maintain the integrity and authenticity of the dataset, ensuring that users can trust the quality and accuracy of the recipes they discover through our platform. Through our project, we celebrate the joy of cooking, sharing, and exploring new flavors, all made possible by the vibrant community of food lovers who have contributed to the dataset's evolution.
-
-
-
-
-
-
